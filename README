@@ -1,0 +1,31 @@
+# Project Name
+
+## Description
+This project is a React-based application using NextUI components and Framer Motion for animations. It utilizes Vite as the build tool and Biome for linting and formatting.
+
+## Dependencies
+- [@biomejs/biome](https://biomejs.dev/) (v1.9.0): An all-in-one toolchain for web projects.
+- [@nextui-org/react](https://nextui.org/) (v2.4.7): A beautiful, fast, and modern React UI library.
+- [framer-motion](https://www.framer.com/motion/) (v11.5.4): A production-ready motion library for React.
+- [react](https://reactjs.org/) (v18.3.1): A JavaScript library for building user interfaces.
+- [react-dom](https://reactjs.org/docs/react-dom.html) (v18.3.1): React package for working with the DOM.
+- [vite-plugin-biome](https://github.com/jedlinsky/vite-plugin-biome) (v1.0.12): Vite plugin for Biome integration.
+
+## Installation
+To install the project dependencies, run the following command:
+
+```bash
+bun install
+```
+
+## Usage
+[Add instructions on how to run and use your project here]
+
+## Scripts
+[Add any npm scripts here, e.g., for running, building, or testing the project]
+
+## Contributing
+[Add guidelines for contributing to your project]
+
+## License
+[Specify the license for your project]
