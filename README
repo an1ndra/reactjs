@@ -17,15 +17,3 @@ To install the project dependencies, run the following command:
 ```bash
 bun install
 ```
-
-## Usage
-[Add instructions on how to run and use your project here]
-
-## Scripts
-[Add any npm scripts here, e.g., for running, building, or testing the project]
-
-## Contributing
-[Add guidelines for contributing to your project]
-
-## License
-[Specify the license for your project]
